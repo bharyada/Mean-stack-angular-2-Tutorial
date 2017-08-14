@@ -1,0 +1,23 @@
+{
+  "name": "meanstackwithangular2",
+  "version": "1.0.0",
+  "description": "Means stack with angularjs 2 tutorial",
+  "main": "index.js",
+  "scripts": {
+   "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharyada/Mean-stack-angular-2-Tutorial.git"
+  },
+  "author": "Bharat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharyada/Mean-stack-angular-2-Tutorial/issues"
+  },
+  "homepage": "https://github.com/bharyada/Mean-stack-angular-2-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.6"
+  }
+}
